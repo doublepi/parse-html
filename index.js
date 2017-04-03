@@ -1,6 +1,6 @@
 module.exports = function(html) {
-  let div = document.createElement('div');
+  var div = document.createElement('div');
   div.innerHTML = html;
-  let elements = div.firstChild;
+  var elements = div.firstChild;
   return elements;
 }
