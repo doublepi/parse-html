@@ -1,6 +1,6 @@
 {
   "name": "@doublepi/parse-html",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Parse HTML string into HTML element",
   "main": "index.js",
   "scripts": {
